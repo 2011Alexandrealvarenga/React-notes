@@ -38,5 +38,11 @@ inserir
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle'
 https://www.youtube.com/watch?v=eotcA6coDkc
+
+react strap
+https://reactstrap.github.io/?path=/story/home-installation--page
+
+npm install --save bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css';
 ------------------
 
