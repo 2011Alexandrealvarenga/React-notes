@@ -31,3 +31,12 @@ https://www.youtube.com/watch?v=jrJxJYxMtmI
 -----------------
 github pages
 https://www.youtube.com/watch?v=7wzuievFjrk
+----------------- Bootstrap
+npm install bootstrap
+no arquivo index.js
+inserir 
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/dist/js/bootstrap.bundle'
+https://www.youtube.com/watch?v=eotcA6coDkc
+------------------
+
