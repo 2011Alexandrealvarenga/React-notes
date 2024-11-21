@@ -1,0 +1,33 @@
+Atualizando o next
+npm install -g create-next-app
+
+Criar o projeto
+npx create-next-app
+
+## Para rodar o projeto
+npm run dev
+
+## criando projeto com o vite (react puro)
+npm create vite
+
+EXTENSÃO
+.tsx typescript
+.jsx javascript no react
+---------------
+instalacao do router
+
+npm install react-router-dom
+npm install styled-components --save
+--------------- aulas
+rotas - youtube
+npx create-react-app nome-projeto
+
+## Dependencias de rotas
+npm install react-router-dom --save
+## Dependencias de styled
+npm install styled-components --save
+
+https://www.youtube.com/watch?v=jrJxJYxMtmI
+-----------------
+github pages
+https://www.youtube.com/watch?v=7wzuievFjrk
