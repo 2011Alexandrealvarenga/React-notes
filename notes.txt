@@ -31,6 +31,30 @@ https://www.youtube.com/watch?v=jrJxJYxMtmI
 -----------------
 github pages
 https://www.youtube.com/watch?v=7wzuievFjrk
+
+extensao para github pages
+npm install gh-pages --save-dev
+
+npm install gh-pages --save-dev
+
+make commit
+
+insert 
+"homepage": "https://2011Alexandrealvarenga.github.io/portfolio",
+
+inside 
+"script":{
+insert
+"predeploy":"npm run build",
+"deploy":"gh-pages -d build",
+
+execute 
+npm run deploy
+
+in github repository 
+settings/pages/
+check if "gh-pages" is configured 
+wait and update page to check the url
 ----------------- Bootstrap
 npm install bootstrap
 no arquivo index.js
