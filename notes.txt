@@ -68,5 +68,8 @@ https://reactstrap.github.io/?path=/story/home-installation--page
 
 npm install --save bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
+
+indicado pelo jony
+https://react-bootstrap.netlify.app/
 ------------------
 
