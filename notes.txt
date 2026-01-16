@@ -57,6 +57,10 @@ check if "gh-pages" is configured
 wait and update page to check the url
 ----------------- Bootstrap
 npm install bootstrap
+
+para a versao especifica
+npm install bootstrap@5
+
 no arquivo index.js
 inserir 
 import 'bootstrap/dist/css/bootstrap.min.css'
